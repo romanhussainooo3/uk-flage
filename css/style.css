@@ -1,0 +1,151 @@
+
+*{
+    padding: 0px;
+    height: 0px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    height: 1550px;
+}
+h1,h2,h3,h4,h5,h6{
+
+}
+img{
+    max-width: 100px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.Bangladesh Flage{
+    font-size: 100px;
+}
+.login{
+    width: 900px;
+    height:100px;
+    background-color: red;
+    margin-left: 300px;
+    position: relative;
+    
+}
+.form{
+    width:900px;
+    height: 100px;
+    margin-left: 300px;
+    background-color: rgb(117, 4, 246);
+    position: relative;
+    margin-top: 100px;
+    
+    
+}
+h1{
+    font-size: 60px;
+    position: absolute;
+    font-weight: 900;
+    margin-left: 140px;
+    
+    
+}
+h2{
+    font-size: 70px;
+    position: absolute;
+    bottom: 5px;
+   left: 190px;
+   font-weight: 800px;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 100px;
+    position: absolute;
+    transform:translate(280px, 60px);
+    z-index: ;
+}
+.white{
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+    position: absolute;
+    top: 400px;
+    border-radius: 100px;
+    position: fixed;
+}
+
+
+
+
+
+.green{
+    width: 550px;
+    height: 250px;
+    background-color: green;
+    margin: 40px auto 0;
+    position: relative;
+}
+.red{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    border-radius: 100px;
+    margin-left: 185px;
+    margin-top: 50px;
+    z-index: 1;
+    
+}
+.orange{
+    width: 500px;
+    height: 80px;
+    background-color: rgb(239, 101, 3);
+    position: relative;
+    margin-left: 500px;
+    margin-top: 60px;
+}
+.pink{
+    width: 500px;
+    height: 80px;
+    background-color: rgb(248, 243, 243);
+    position: absolute;
+    margin-top: 80px;
+
+   
+}
+.brown{
+    width: 500px;
+    height: 80px;
+    background-color: green;
+    margin-top: 80px;
+}
+
+.avater img{
+    width: 90px;
+    height: 75px;
+    position: absolute;
+    border-radius: 100px;
+    left:190px;
+    top: 1px;
+    
+}
+
+.fbshare{
+    width: 120px;
+    top: 200px;
+    margin-left: 990px;
+    position: fixed;
+    transition: 1s;
+  
+    
+}    
+
+.fbshare:hover{
+   cursor: pointer;
+    right: -7px;
+   
+    
+}
